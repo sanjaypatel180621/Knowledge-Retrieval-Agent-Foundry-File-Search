@@ -19,7 +19,7 @@ The service leverages **Foundry Agent Service** and utilizes **file search for k
 
 Click the image below to watch the demo:
 
-[![AI Agent Demo](aiagent_chatbot_demo.png)](aigent_demo_video.mp4)
+[![AI Agent Demo](aiagent_chatbot_demo.png)](https://github.com/sanjaypatel180621/Knowledge-Retrieval-Agent-Foundry-File-Search/blob/main/aigent_demo_video.mp4)
 
 
 
