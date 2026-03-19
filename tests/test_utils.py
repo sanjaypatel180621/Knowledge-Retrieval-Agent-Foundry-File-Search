@@ -37,7 +37,7 @@ def retrieve_agent(project_client: AIProjectClient):
     return agent
 
 def retrieve_endpoint():
-    endpoint = os.environ.get("AZURE_EXISTING_AIPROJECT_ENDPOINT", "")
+    endpoint = os.environ.get("AZURE_EXISTING_AIPROJECT_ENDPOINT", "https://aoai-kmhuwap2shhbw.services.ai.azure.com/api/projects/proj-kmhuwap2shhbw")
     if not endpoint:
         raise ValueError("Please set AZURE_EXISTING_AIPROJECT_ENDPOINT environment variable.")
     return endpoint
