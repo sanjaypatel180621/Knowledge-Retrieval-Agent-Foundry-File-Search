@@ -15,6 +15,13 @@ The service leverages **Foundry Agent Service** and utilizes **file search for k
 ![AI Agent Chatbot Demo](aiagent_chatbot_demo.png)
 
 
+## Demo Video
+
+Click the image below to watch the demo:
+
+[![AI Agent Demo](aiagent_chatbot_demo.png)](aigent_demo_video.mp4)
+
+
 
 
 <div style="text-align:center;">
