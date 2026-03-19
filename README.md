@@ -2,6 +2,16 @@
 
 The agent leverages Foundry Agent Service and utilizes file search for knowledge retrieval from uploaded files, enabling it to generate responses with citations. The solution also includes built-in monitoring capabilities with tracing to ensure easier troubleshooting and optimized performance.
 
+## Deployment Endpoint
+
+This agent is deployed on Azure Container Apps and can be accessed at:
+
+[Knowledge Retrieval Agent Service](https://ca-api-kmhuwap2shhbw.calmpond-3d059dc2.swedencentral.azurecontainerapps.io)
+
+The service leverages **Foundry Agent Service** and utilizes **file search for knowledge retrieval from uploaded files**.
+
+
+
 <div style="text-align:center;">
 
 [**SOLUTION OVERVIEW**](#solution-overview) \| [**GETTING STARTED**](#getting-started) \| [**LOCAL DEVELOPMENT**](#local-development) \| [**RESOURCE CLEAN-UP**](#resource-clean-up) \| [**GUIDANCE**](#guidance) \| [**TROUBLESHOOTING**](./docs/troubleshooting.md)
